@@ -3441,8 +3441,49 @@ a {
     left: -1rem;
   }
 }
-.cid-ttT4a9a3Tr {
+.cid-tv6OV1x8Do {
   padding-top: 30px;
+  padding-bottom: 0px;
+  position: relative;
+  background-color: #ffffff;
+}
+.cid-tv6OV1x8Do p {
+  color: #767676;
+}
+.cid-tv6OV1x8Do .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-tv6OV1x8Do .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-tv6OV1x8Do .card .card-header a.panel-title {
+  margin-bottom: 0;
+  margin-top: -1px;
+  font-weight: 500;
+  font-style: normal;
+  display: block;
+  text-decoration: none !important;
+  line-height: normal;
+}
+.cid-tv6OV1x8Do .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-tv6OV1x8Do .card .card-header a.panel-title h4 {
+  border: 1px solid #dfdfdf;
+  padding: 1.3rem 2rem;
+  margin-bottom: 0;
+}
+.cid-tv6OV1x8Do .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-tv6OV1x8Do .panel-text {
+  text-align: left;
+}
+.cid-ttT4a9a3Tr {
+  padding-top: 0px;
   padding-bottom: 30px;
   position: relative;
   background-color: #ffffff;
